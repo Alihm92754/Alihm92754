@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihm92754" alt="alihm92754" /></a> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [hammoud.surge.sh](hammoud.surge.sh)
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ali-hammoud-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-hammoud-webdev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alihammoud92754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alihammoud92754" height="30" width="40" /></a>
 </p>
 
@@ -24,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihm92754&show_icons=true&locale=en&layout=compact" alt="alihm92754" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihm92754&show_icons=true&locale=en" alt="alihm92754" /></p>
-
